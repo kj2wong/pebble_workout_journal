@@ -1,0 +1,17 @@
+{
+  "uuid": "7f320ad1-3a76-4ece-935f-ffd29608d4ee",
+  "shortName": "workout_journal",
+  "longName": "workout_journal",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
