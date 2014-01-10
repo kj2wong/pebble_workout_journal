@@ -1,3 +1,10 @@
+//Pebble App: Workout Journal
+//	The purpose of this app is to act like a gym journal to keep track of progressions
+//Author: Kevin J Wong
+
+//NOTE: This app currently has the following functionality (still in progress)
+//	-implemented the window that will count your reps
+
 #include <pebble.h>
 
 static Window *window;
