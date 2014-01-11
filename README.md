@@ -6,3 +6,4 @@ A simple pebble app to keep track of your gym workouts. Specifically, your sets 
 Note: The app currently contains the following functionality (still in progress)
 
 	-Implemented the window that will be counting your reps
+	-Implemented exercise menu that shows up at start; selecting an exercise takes you to the rep counter
